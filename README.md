@@ -1,1 +1,1 @@
-# Django-E-commerce
+# Django-CRM
